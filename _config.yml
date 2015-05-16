@@ -1,0 +1,13 @@
+# Use of `relative_permalinks` ensures post links from the index work properly.
+relative_permalinks: true
+permalink:           :title/
+-baseurl : http://colombore.org
+-url : http://colombore.org
+
+
+# Setup
+title:               colombore
+tagline:             'A design text: from and beyond Colombo'
+description:         'Colombore is a blog focusing on personal opinions, experiences, ideas and occasional interviews or discussions of a few designers from Colombo, Sri Lanka.'
+baseurl:             '/colombore'
+paginate:            5

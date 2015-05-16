@@ -1,0 +1,43 @@
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+
+    <div class="sidebar-item">
+        <img src="{{ site.baseurl }}/images/logo.svg">
+    </div>
+    <nav class="sidebar-nav">
+
+
+
+        <a class="sidebar-nav-item" href="{{ site.baseurl }}/editions">Editions</a>
+        <a class="sidebar-nav-item" href="{{ site.baseurl }}/tags">Tags</a>
+        <a class="sidebar-nav-item" href="{{ site.baseurl }}/Photoblog">Photoblog</a>
+
+
+    </nav>
+    <div class="sidebar-item">
+        <p>{{ site.description }}</p>
+        <nav class="sidebar-nav">
+
+
+        <a href="{{ site.baseurl }}/about">About</a> | 
+        <a href="{{ site.baseurl }}/writers">Writers</a> | 
+        <a href="{{ site.baseurl }}/submit">Submit</a>
+
+    </nav>
+    </div>
+    <div class="sidebar-item">
+        <p>
+            &copy; {{ site.time | date: '%Y' }}. mooniak.
+
+            <br />
+            <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+
+        </p>
+    </div>
+    
+
+</div>
