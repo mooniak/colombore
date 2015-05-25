@@ -1,6 +1,6 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 relative_permalinks: true
-permalink:           /:baseurl/:title/
+permalink:           http://colombore.org/:title/
 -baseurl : http://colombore.org
 -url : http://colombore.org
 
