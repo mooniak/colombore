@@ -2,7 +2,7 @@
 relative_permalinks: true
 permalink:     /:title
 url : http://colombore.org
-baseurl : colombore.org
+baseurl : http://colombore.org
 
 
 
