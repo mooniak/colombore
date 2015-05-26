@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I can not be original
-category: Edition 1
+category: Edition 2
 length: short
 lang: en
 tag: 

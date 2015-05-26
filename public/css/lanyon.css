@@ -38,6 +38,7 @@
 html,
 body {
   overflow-x: hidden;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
 
 html {
@@ -333,9 +334,10 @@ a.sidebar-nav-item:focus {
 /* Meta data line below post title */
 .post-date {
   display: block;
-  margin-top: -.5rem;
-  margin-bottom: 1rem;
+  margin-top: -0.5rem;
+  margin-bottom: 0rem;
   color: #9a9a9a;
+  font-size: 15px;
 }
 
 /* Related posts */
@@ -567,4 +569,16 @@ a.pagination-item:hover {
 /* Only one tweak for a reverse layout */
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
+}
+
+
+
+/*fonts*/
+
+.si{
+font-family: 'MalithiWeb-Regular';
+}
+
+.en{
+font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }

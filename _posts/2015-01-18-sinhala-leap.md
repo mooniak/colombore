@@ -1,6 +1,6 @@
 ---
 layout: post
-title: සිංහල භාෂාවේ තීරණාත්මක මොහොතක් මේ…
+title: සිංහල භාෂාවේ තීරණාත්මක මොහොතක් මේ
 category: Edition 1
 length: long
 lang: si

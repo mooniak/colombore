@@ -17,6 +17,19 @@ html {
 	text-rendering: geometricPrecision;
 */
 }
+
+@font-face {
+	font-family:'MalithiWeb-Regular';
+	src: url('../fonts/MalithiWeb_gdi.eot');
+	src: url('../fonts/MalithiWeb_gdi.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/MalithiWeb_gdi.woff') format('woff'),
+		url('../fonts/MalithiWeb_gdi.ttf') format('truetype'),
+		url('../fonts/MalithiWeb_gdi.svg#MalithiWeb-Regular') format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+000D-25CC;
+}
 @font-face {
     font-family: 'worksansblack';
     src: url('Work-Sans/fonts/webfonts/woff2/WorkSans-Black.woff2') format('woff2'),
