@@ -1,5 +1,14 @@
 ---
 published: true
+layout: post
+title: Why I can not be original
+category: Edition 2
+length: short
+lang: en
+tag: 
+    - tutorial
+    - typography
+desc: Using bezier drawing tools for type design requier learning some simple basics. These resources helped me.
 ---
 
 
