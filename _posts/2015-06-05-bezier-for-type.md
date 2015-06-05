@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Why I can not be original
+title: Bezier resources for type design
 category: Edition 2
 length: short
 lang: en
