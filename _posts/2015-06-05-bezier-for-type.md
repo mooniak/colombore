@@ -5,6 +5,8 @@ title: Why I can not be original
 category: Edition 2
 length: short
 lang: en
+lang: si
+writer: Pathum Egodawatta
 tag: 
     - tutorial
     - typography
