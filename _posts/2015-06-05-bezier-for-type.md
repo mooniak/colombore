@@ -2,11 +2,6 @@
 published: false
 ---
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-
 
 Bezier Curves and Type Design: A Tutorial by Fábio Duarte Martins
 http://learn.scannerlicker.net/2014/04/16/bezier-curves-and-type-design-a-tutorial/
