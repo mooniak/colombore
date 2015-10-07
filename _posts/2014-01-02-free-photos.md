@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "නිකං පොටෝ දීම The Free Photos 
+title: "නිකං පොටෝ දීම The Free Photos "
 category: Edition 1
 length: short
 lang: si
@@ -9,9 +9,6 @@ tag:
 desc: From today onwards we are starting to release daily free photo that will unfold boaring colombo and beyond :) 
 ---
 
-
-
-#නිකං පොටෝ දීම The Free Photos 
 
 ![IMG_20150821_184404.jpg](https://raw.githubusercontent.com/mooniak/colombore/gh-pages/_posts/IMG_20150821_184404.jpg)
 
