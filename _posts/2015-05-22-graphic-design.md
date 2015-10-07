@@ -15,6 +15,7 @@ published: true
 
 
 ![graphic-design.jpg](https://raw.githubusercontent.com/mooniak/colombore/gh-pages/_posts/graphic-design.jpg)
+![graphic-design.jpg]({{site.baseurl}}/_posts/graphic-design.jpg)
 
 
 ග්‍රැෆික් ඩිසයින් පසුගිය කාලය පුරාම බොහොම ජනප්‍රිය දෙයක් බවට පත්වුණා.. විජය පරිගණක සඟරාව වගේම බොහොම පොඩි ගානකට කරන්න පුළුවන් ග්‍රැෆික් ඩිසයින් ඩිප්ලෝමා වලින් මේක තවත් ජනප්‍රිය වුණා... ඒත් ගැටලුව තමයි මේ ගැන සිංහලෙන් ලියවුනු දේවල් හැමවෙලේම සීමා වෙලා තියෙන්නේ Tools නැත්නම් පාවිච්චි වෙන sowtwares ගනන් උගන්නන්න මිසක් ග්‍රැෆික් ඩිසයින් වල මූලික මූලධර්ම නැත්නම් theory උගන්නන නෙවයි. 
