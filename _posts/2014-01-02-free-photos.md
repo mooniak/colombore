@@ -1,8 +1,12 @@
 ---
 layout: post
 title: "නිකං පොටෝ දීම "
-edition: tech
-published: true
+category: Edition 1
+length: short
+lang: si
+tag: 
+    - Sinhala
+desc: From today onwards we are starting to release daily free photo that will unfold boaring colombo and beyond :) 
 ---
 
 
