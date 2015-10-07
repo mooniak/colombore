@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "නිකං පොටෝ දීම The Free Photos "
+title: නිකං පොටෝ දීම The Free Photos 
 category: Edition 1
 length: short
 lang: si
