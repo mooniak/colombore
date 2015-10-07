@@ -9,7 +9,7 @@ published: true
 
 #නිකං පොටෝ දීම The Free Photos 
 
-![IMG_20150821_184404.jpg]({{site.baseurl}}/_posts/IMG_20150821_184404.jpg)
+![IMG_20150821_184404.jpg](https://raw.githubusercontent.com/mooniak/colombore/gh-pages/_posts/IMG_20150821_184404.jpg)
 
 From today onwards we are starting to release daily free photo that will unfold boaring colombo and beyond :) 
 
