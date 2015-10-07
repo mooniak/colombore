@@ -2,7 +2,7 @@
 relative_permalinks: true
 permalink:     /:title
 url : http://mooniak.com/colombore/
-baseurl : http://mooniak.com/colombore/
+baseurl : http://mooniak.com/colombore
 
 
 
