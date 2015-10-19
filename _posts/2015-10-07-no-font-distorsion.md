@@ -1,5 +1,12 @@
 ---
-published: false
+layout: post
+title: තලන්න එපා !!!!
+category: Edition 2
+length: medium
+lang: si
+tag:
+    - Sinhala
+desc: හැමතැනම හැමදාම දකින අකුරුවල එපාමවෙන එක තමයි ඒවා එහාට මෙහාට ඇදලා දාල තියෙන එක.
 ---
 
 ##තලන්න එපා !!!!
@@ -28,5 +35,3 @@ published: false
 
 
 ![Screen Shot 2015-10-19 at 9.24.11 PM.png]({{site.baseurl}}/images/Screen Shot 2015-10-19 at 9.24.11 PM.png)
-
-  
