@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Abhaya Libre';
+  src: url('AbhayaLibre-Regular.eot'); /* IE9 Compat Modes */
+  src: url('AbhayaLibre-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('AbhayaLibre-Regular.woff') format('woff'), /* Modern Browsers */
+       url('AbhayaLibre-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('AbhayaLibre-Regular.svg#6b1ad60c44ef407415e9b237dd784990') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'Ayanna';
+  src: url('Ayanna-Bold.eot'); /* IE9 Compat Modes */
+  src: url('Ayanna-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Ayanna-Bold.woff') format('woff'), /* Modern Browsers */
+       url('Ayanna-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Ayanna-Bold.svg#fb1a8202e95a9dc7f824cb00d41cb6ce') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  700;
+}
+
