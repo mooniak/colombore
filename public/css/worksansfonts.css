@@ -1,14 +1,5 @@
-@font-face {
-  font-family: 'Abhaya Libre';
-  src: url('AbhayaLibre-Regular.eot'); /* IE9 Compat Modes */
-  src: url('AbhayaLibre-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('AbhayaLibre-Regular.woff') format('woff'), /* Modern Browsers */
-       url('AbhayaLibre-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('AbhayaLibre-Regular.svg#6b1ad60c44ef407415e9b237dd784990') format('svg'); /* Legacy iOS */
-       
-  font-style:   normal;
-  font-weight:  400;
-}
+@import url('https://fonts.googleapis.com/css?family=Abhaya+Libre');
+
 
 @font-face {
   font-family: 'Ayanna';
@@ -17,7 +8,7 @@
        url('Ayanna-Bold.woff') format('woff'), /* Modern Browsers */
        url('Ayanna-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
        url('Ayanna-Bold.svg#fb1a8202e95a9dc7f824cb00d41cb6ce') format('svg'); /* Legacy iOS */
-       
+
   font-style:   normal;
   font-weight:  700;
 }
@@ -25,100 +16,100 @@
 
 
 .fractions {
-	-moz-font-feature-settings:"frac" 1, "kern" 1; 
-	-moz-font-feature-settings:"frac=1, kern=1"; 
-	-ms-font-feature-settings:"frac" 1, "kern" 1; 
-	-o-font-feature-settings:"frac" 1, "kern" 1; 
-	-webkit-font-feature-settings:"frac" 1, "kern" 1; 
+	-moz-font-feature-settings:"frac" 1, "kern" 1;
+	-moz-font-feature-settings:"frac=1, kern=1";
+	-ms-font-feature-settings:"frac" 1, "kern" 1;
+	-o-font-feature-settings:"frac" 1, "kern" 1;
+	-webkit-font-feature-settings:"frac" 1, "kern" 1;
 	font-feature-settings:"frac" 1, "kern" 1;
 }
 .case {
-	-moz-font-feature-settings:"case" 1, "kern" 1; 
-	-moz-font-feature-settings:"case=1, kern=1"; 
-	-ms-font-feature-settings:"case" 1, "kern" 1; 
-	-o-font-feature-settings:"case" 1, "kern" 1; 
-	-webkit-font-feature-settings:"case" 1, "kern" 1; 
+	-moz-font-feature-settings:"case" 1, "kern" 1;
+	-moz-font-feature-settings:"case=1, kern=1";
+	-ms-font-feature-settings:"case" 1, "kern" 1;
+	-o-font-feature-settings:"case" 1, "kern" 1;
+	-webkit-font-feature-settings:"case" 1, "kern" 1;
 	font-feature-settings:"case" 1, "kern" 1;
 }
 .cpsp {
-	-moz-font-feature-settings:"cpsp" 1, "kern" 1; 
-	-moz-font-feature-settings:"cpsp=1, kern=1"; 
-	-ms-font-feature-settings:"cpsp" 1, "kern" 1; 
-	-o-font-feature-settings:"cpsp" 1, "kern" 1; 
-	-webkit-font-feature-settings:"cpsp" 1, "kern" 1; 
+	-moz-font-feature-settings:"cpsp" 1, "kern" 1;
+	-moz-font-feature-settings:"cpsp=1, kern=1";
+	-ms-font-feature-settings:"cpsp" 1, "kern" 1;
+	-o-font-feature-settings:"cpsp" 1, "kern" 1;
+	-webkit-font-feature-settings:"cpsp" 1, "kern" 1;
 	font-feature-settings:"cpsp" 1, "kern" 1;
 }
 
 .dlig {
-	-moz-font-feature-settings:"kern" 1, "liga" 1, "dlig"; 
-	-moz-font-feature-settings:"kern=1, liga=1, dlig=1"; 
-	-ms-font-feature-settings:"kern" 1, "liga" 1, "dlig"; 
-	-o-font-feature-settings:"kern" 1, "liga" 1, "dlig"; 
-	-webkit-font-feature-settings:"kern" 1, "liga" 1, "dlig"; 
+	-moz-font-feature-settings:"kern" 1, "liga" 1, "dlig";
+	-moz-font-feature-settings:"kern=1, liga=1, dlig=1";
+	-ms-font-feature-settings:"kern" 1, "liga" 1, "dlig";
+	-o-font-feature-settings:"kern" 1, "liga" 1, "dlig";
+	-webkit-font-feature-settings:"kern" 1, "liga" 1, "dlig";
 	font-feature-settings:"kern" 1, "liga" 1, "dlig";
 	font-variant-ligatures: discretionary-ligatures;
 }
 
 .nocalt {
-	-moz-font-feature-settings:"calt" 0, "kern" 1; 
-	-moz-font-feature-settings:"calt=0, kern=1"; 
-	-ms-font-feature-settings:"calt" 0, "kern" 1; 
-	-o-font-feature-settings:"calt" 0, "kern" 1; 
-	-webkit-font-feature-settings:"calt" 0, "kern" 1; 
+	-moz-font-feature-settings:"calt" 0, "kern" 1;
+	-moz-font-feature-settings:"calt=0, kern=1";
+	-ms-font-feature-settings:"calt" 0, "kern" 1;
+	-o-font-feature-settings:"calt" 0, "kern" 1;
+	-webkit-font-feature-settings:"calt" 0, "kern" 1;
 	font-feature-settings:"calt" 0, "kern" 1;
 }
 
 .ss01 {
-	-moz-font-feature-settings:"kern" 1, "liga" 1, "ss01" 1; 
-	-moz-font-feature-settings:"kern=1, liga=1, ss01=1"; 
-	-ms-font-feature-settings:"kern" 1, "liga" 1, "ss01" 1; 
-	-o-font-feature-settings:"kern" 1, "liga" 1, "ss01" 1; 
-	-webkit-font-feature-settings:"kern" 1, "liga" 1, "ss01" 1; 
+	-moz-font-feature-settings:"kern" 1, "liga" 1, "ss01" 1;
+	-moz-font-feature-settings:"kern=1, liga=1, ss01=1";
+	-ms-font-feature-settings:"kern" 1, "liga" 1, "ss01" 1;
+	-o-font-feature-settings:"kern" 1, "liga" 1, "ss01" 1;
+	-webkit-font-feature-settings:"kern" 1, "liga" 1, "ss01" 1;
 	font-feature-settings:"kern" 1, "liga" 1, "ss01" 1;
 }
 
 .ss02 {
-	-moz-font-feature-settings:"kern" 1, "liga" 1, "ss02" 1; 
-	-moz-font-feature-settings:"kern=1, liga=1, ss02=1"; 
-	-ms-font-feature-settings:"kern" 1, "liga" 1, "ss02" 1; 
-	-o-font-feature-settings:"kern" 1, "liga" 1, "ss02" 1; 
-	-webkit-font-feature-settings:"kern" 1, "liga" 1, "ss02" 1; 
+	-moz-font-feature-settings:"kern" 1, "liga" 1, "ss02" 1;
+	-moz-font-feature-settings:"kern=1, liga=1, ss02=1";
+	-ms-font-feature-settings:"kern" 1, "liga" 1, "ss02" 1;
+	-o-font-feature-settings:"kern" 1, "liga" 1, "ss02" 1;
+	-webkit-font-feature-settings:"kern" 1, "liga" 1, "ss02" 1;
 	font-feature-settings:"kern" 1, "liga" 1, "ss02" 1;
 }
 
 .ss0102 {
-	-moz-font-feature-settings:"kern" 1, "liga" 1, "ss01" 1, "ss02" 1; 
-	-moz-font-feature-settings:"kern=1, liga=1, ss01=1, ss02=1"; 
-	-ms-font-feature-settings:"kern" 1, "liga" 1, "ss01" 1, "ss02" 1; 
-	-o-font-feature-settings:"kern" 1, "liga" 1, "ss01" 1, "ss02" 1; 
-	-webkit-font-feature-settings:"kern" 1, "liga" 1, "ss01" 1, "ss02" 1; 
+	-moz-font-feature-settings:"kern" 1, "liga" 1, "ss01" 1, "ss02" 1;
+	-moz-font-feature-settings:"kern=1, liga=1, ss01=1, ss02=1";
+	-ms-font-feature-settings:"kern" 1, "liga" 1, "ss01" 1, "ss02" 1;
+	-o-font-feature-settings:"kern" 1, "liga" 1, "ss01" 1, "ss02" 1;
+	-webkit-font-feature-settings:"kern" 1, "liga" 1, "ss01" 1, "ss02" 1;
 	font-feature-settings:"kern" 1, "liga" 1, "ss01" 1, "ss02" 1;
 }
 
 .ss03 {
-	-moz-font-feature-settings:"kern" 1, "liga" 1, "ss03" 1; 
-	-moz-font-feature-settings:"kern=1, liga=1, ss03=1"; 
-	-ms-font-feature-settings:"kern" 1, "liga" 1, "ss03" 1; 
-	-o-font-feature-settings:"kern" 1, "liga" 1, "ss03" 1; 
-	-webkit-font-feature-settings:"kern" 1, "liga" 1, "ss03" 1; 
+	-moz-font-feature-settings:"kern" 1, "liga" 1, "ss03" 1;
+	-moz-font-feature-settings:"kern=1, liga=1, ss03=1";
+	-ms-font-feature-settings:"kern" 1, "liga" 1, "ss03" 1;
+	-o-font-feature-settings:"kern" 1, "liga" 1, "ss03" 1;
+	-webkit-font-feature-settings:"kern" 1, "liga" 1, "ss03" 1;
 	font-feature-settings:"kern" 1, "liga" 1, "ss03" 1;
 }
 
 .ss04 {
-	-moz-font-feature-settings:"kern" 1, "liga" 1, "ss04" 1; 
-	-moz-font-feature-settings:"kern=1, liga=1, ss04=1"; 
-	-ms-font-feature-settings:"kern" 1, "liga" 1, "ss04" 1; 
-	-o-font-feature-settings:"kern" 1, "liga" 1, "ss04" 1; 
-	-webkit-font-feature-settings:"kern" 1, "liga" 1, "ss04" 1; 
+	-moz-font-feature-settings:"kern" 1, "liga" 1, "ss04" 1;
+	-moz-font-feature-settings:"kern=1, liga=1, ss04=1";
+	-ms-font-feature-settings:"kern" 1, "liga" 1, "ss04" 1;
+	-o-font-feature-settings:"kern" 1, "liga" 1, "ss04" 1;
+	-webkit-font-feature-settings:"kern" 1, "liga" 1, "ss04" 1;
 	font-feature-settings:"kern" 1, "liga" 1, "ss04" 1;
 }
 
 .ss05 {
-	-moz-font-feature-settings:"kern" 1, "liga" 1, "ss05" 1; 
-	-moz-font-feature-settings:"kern=1, liga=1, ss05=1"; 
-	-ms-font-feature-settings:"kern" 1, "liga" 1, "ss05" 1; 
-	-o-font-feature-settings:"kern" 1, "liga" 1, "ss05" 1; 
-	-webkit-font-feature-settings:"kern" 1, "liga" 1, "ss05" 1; 
+	-moz-font-feature-settings:"kern" 1, "liga" 1, "ss05" 1;
+	-moz-font-feature-settings:"kern=1, liga=1, ss05=1";
+	-ms-font-feature-settings:"kern" 1, "liga" 1, "ss05" 1;
+	-o-font-feature-settings:"kern" 1, "liga" 1, "ss05" 1;
+	-webkit-font-feature-settings:"kern" 1, "liga" 1, "ss05" 1;
 	font-feature-settings:"kern" 1, "liga" 1, "ss05" 1;
 }
 
@@ -132,29 +123,29 @@
 }
 
 .ss03c2sc {
-	-moz-font-feature-settings:"kern" 1, "liga" 1, "ss03" 1, "c2sc"; 
-	-moz-font-feature-settings:"kern=1, liga=1, ss03=1, c2sc=1"; 
-	-ms-font-feature-settings:"kern" 1, "liga" 1, "ss03" 1, "c2sc"; 
-	-o-font-feature-settings:"kern" 1, "liga" 1, "ss03" 1, "c2sc"; 
-	-webkit-font-feature-settings:"kern" 1, "liga" 1, "ss03" 1, "c2sc"; 
+	-moz-font-feature-settings:"kern" 1, "liga" 1, "ss03" 1, "c2sc";
+	-moz-font-feature-settings:"kern=1, liga=1, ss03=1, c2sc=1";
+	-ms-font-feature-settings:"kern" 1, "liga" 1, "ss03" 1, "c2sc";
+	-o-font-feature-settings:"kern" 1, "liga" 1, "ss03" 1, "c2sc";
+	-webkit-font-feature-settings:"kern" 1, "liga" 1, "ss03" 1, "c2sc";
 	font-feature-settings:"kern" 1, "liga" 1, "ss03" 1, "c2sc";
 }
 
 .ss04c2sc {
-	-moz-font-feature-settings:"kern" 1, "liga" 1, "ss04" 1, "c2sc"; 
-	-moz-font-feature-settings:"kern=1, liga=1, ss04=1, c2sc=1"; 
-	-ms-font-feature-settings:"kern" 1, "liga" 1, "ss04" 1, "c2sc"; 
-	-o-font-feature-settings:"kern" 1, "liga" 1, "ss04" 1, "c2sc"; 
-	-webkit-font-feature-settings:"kern" 1, "liga" 1, "ss04" 1, "c2sc"; 
+	-moz-font-feature-settings:"kern" 1, "liga" 1, "ss04" 1, "c2sc";
+	-moz-font-feature-settings:"kern=1, liga=1, ss04=1, c2sc=1";
+	-ms-font-feature-settings:"kern" 1, "liga" 1, "ss04" 1, "c2sc";
+	-o-font-feature-settings:"kern" 1, "liga" 1, "ss04" 1, "c2sc";
+	-webkit-font-feature-settings:"kern" 1, "liga" 1, "ss04" 1, "c2sc";
 	font-feature-settings:"kern" 1, "liga" 1, "ss04" 1, "c2sc";
 }
 
 .ss05c2sc {
-	-moz-font-feature-settings:"kern" 1, "liga" 1, "ss05" 1, "c2sc"; 
-	-moz-font-feature-settings:"kern=1, liga=1, ss05=1, c2sc=1"; 
-	-ms-font-feature-settings:"kern" 1, "liga" 1, "ss05" 1, "c2sc"; 
-	-o-font-feature-settings:"kern" 1, "liga" 1, "ss05" 1, "c2sc"; 
-	-webkit-font-feature-settings:"kern" 1, "liga" 1, "ss05" 1, "c2sc"; 
+	-moz-font-feature-settings:"kern" 1, "liga" 1, "ss05" 1, "c2sc";
+	-moz-font-feature-settings:"kern=1, liga=1, ss05=1, c2sc=1";
+	-ms-font-feature-settings:"kern" 1, "liga" 1, "ss05" 1, "c2sc";
+	-o-font-feature-settings:"kern" 1, "liga" 1, "ss05" 1, "c2sc";
+	-webkit-font-feature-settings:"kern" 1, "liga" 1, "ss05" 1, "c2sc";
 	font-feature-settings:"kern" 1, "liga" 1, "ss05" 1, "c2sc";
 }
 
@@ -252,28 +243,28 @@
 }
 
 .swsh {
-	-moz-font-feature-settings:"swsh" 1; 
-	-moz-font-feature-settings:"swsh=1"; 
-	-ms-font-feature-settings:"swsh" 1; 
-	-o-font-feature-settings:"swsh" 1; 
-	-webkit-font-feature-settings:"swsh" 1; 
+	-moz-font-feature-settings:"swsh" 1;
+	-moz-font-feature-settings:"swsh=1";
+	-ms-font-feature-settings:"swsh" 1;
+	-o-font-feature-settings:"swsh" 1;
+	-webkit-font-feature-settings:"swsh" 1;
 	font-feature-settings:"swsh" 1;
 }
 
 .swsh2 {
-	-moz-font-feature-settings:"swsh" 2; 
-	-moz-font-feature-settings:"swsh=2"; 
-	-ms-font-feature-settings:"swsh" 2; 
-	-o-font-feature-settings:"swsh" 2; 
-	-webkit-font-feature-settings:"swsh" 2; 
+	-moz-font-feature-settings:"swsh" 2;
+	-moz-font-feature-settings:"swsh=2";
+	-ms-font-feature-settings:"swsh" 2;
+	-o-font-feature-settings:"swsh" 2;
+	-webkit-font-feature-settings:"swsh" 2;
 	font-feature-settings:"swsh" 2;
 }
 
 .cswh {
-	-moz-font-feature-settings:"cswh" 1; 
-	-moz-font-feature-settings:"cswh=1"; 
-	-ms-font-feature-settings:"cswh" 1; 
-	-o-font-feature-settings:"cswh" 1; 
-	-webkit-font-feature-settings:"cswh" 1; 
+	-moz-font-feature-settings:"cswh" 1;
+	-moz-font-feature-settings:"cswh=1";
+	-ms-font-feature-settings:"cswh" 1;
+	-o-font-feature-settings:"cswh" 1;
+	-webkit-font-feature-settings:"cswh" 1;
 	font-feature-settings:"cswh" 1;
 }
