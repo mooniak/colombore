@@ -2,12 +2,12 @@
 relative_permalinks: false
 permalink:     /:title
 url : http://mooniak.com/colombore/
-baseurl : http://mooniak.com/colombore
+baseurl : 
 
 
 
 # Setup
 title:               colombore
 tagline:             'A design text: from and beyond Colombo'
-description:         'Colombore is a blog focusing on personal opinions, experiences, ideas and occasional interviews or discussions of a few designers from Colombo, Sri Lanka.'
+description:         'Colombore is a publication featuring personal opinions, experiences, ideas and occasional interviews or discussions of a few designers from Colombo, Sri Lanka.'
 paginate:            5
